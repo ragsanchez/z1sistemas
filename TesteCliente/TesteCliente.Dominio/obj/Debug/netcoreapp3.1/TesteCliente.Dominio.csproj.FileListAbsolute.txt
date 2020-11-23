@@ -1,0 +1,9 @@
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\bin\Debug\netcoreapp3.1\TesteCliente.Dominio.deps.json
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\bin\Debug\netcoreapp3.1\TesteCliente.Dominio.dll
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\bin\Debug\netcoreapp3.1\TesteCliente.Dominio.pdb
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\obj\Debug\netcoreapp3.1\TesteCliente.Dominio.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\obj\Debug\netcoreapp3.1\TesteCliente.Dominio.AssemblyInfo.cs
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\obj\Debug\netcoreapp3.1\TesteCliente.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\obj\Debug\netcoreapp3.1\TesteCliente.Dominio.dll
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\obj\Debug\netcoreapp3.1\TesteCliente.Dominio.pdb
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Dominio\obj\Debug\netcoreapp3.1\TesteCliente.Dominio.csprojAssemblyReference.cache

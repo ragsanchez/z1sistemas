@@ -1,0 +1,15 @@
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Repositorio.deps.json
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Repositorio.dll
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.AssemblyInfo.cs
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Repositorio.runtimeconfig.json
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Repositorio.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.genruntimeconfig.cache
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Repositorio.pdb
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Dominio.dll
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\bin\Debug\netcoreapp3.1\TesteCliente.Dominio.pdb
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.csproj.CopyComplete
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.dll
+C:\Users\ricar\source\repos\TesteCliente\TesteCliente.Repositorio\obj\Debug\netcoreapp3.1\TesteCliente.Repositorio.pdb
